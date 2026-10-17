@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/*.sqlite3*
+data/*.jsonl
+!data/sample-demo.jsonl
+.env
